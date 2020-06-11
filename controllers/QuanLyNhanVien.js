@@ -7,3 +7,6 @@ DanhSachSinhVien();
 var HauLam = function() {
     document.querySelector('#123').nodeValue;
 }
+var Hi = function() {
+    console.log(123);
+}
